@@ -1,0 +1,3140 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.csrv.com/ontologies/2021/3/CSRV"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.csrv.com/ontologies/2021/3/CSRV">
+    <Prefix name="" IRI="http://www.csrv.com/ontologies/2021/3/CSRV"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="#CSRV_000001"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000002"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000003"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000004"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000005"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000006"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000007"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000008"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000009"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000010"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000011"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000012"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000013"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000014"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000015"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000016"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000017"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000018"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000019"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000020"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000021"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000022"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000023"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000024"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000025"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000026"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000027"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000028"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000029"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000030"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000031"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000032"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000033"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000034"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000035"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000036"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000037"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000038"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000039"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000040"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000041"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000042"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000043"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000044"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000045"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000046"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000047"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000048"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000049"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000050"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000051"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000052"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000053"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000054"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000055"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000056"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000057"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000058"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000059"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000060"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000061"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000062"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000063"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000064"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000065"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000066"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000067"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000068"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000069"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000070"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000071"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000085"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000086"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000087"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000088"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000089"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000090"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000091"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000092"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000093"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000094"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000095"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000096"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000097"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000100"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000101"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000102"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000103"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000107"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000111"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000116"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000152"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000164"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000175"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000176"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000177"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000178"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000179"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000180"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000181"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000182"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000183"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000184"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000185"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000186"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000187"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000188"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000189"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000190"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000191"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000192"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000193"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000194"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000195"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000197"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000198"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000199"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000200"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000201"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000202"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000203"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000204"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000205"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000206"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000207"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000208"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000211"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000216"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000217"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000218"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000219"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000248"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000249"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000250"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000251"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000252"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000253"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000257"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000258"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000259"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000260"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000261"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000262"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000263"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000264"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000265"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000266"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000267"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000268"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000269"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000273"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000274"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000303"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000304"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000305"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000306"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000307"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000308"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000309"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000310"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000312"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000313"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000314"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000315"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000316"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CSRV_000317"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#CSRV_000133"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#CSRV_000134"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#CSRV_000135"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#CSRV_000136"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#CSRV_000137"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#CSRV_000138"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#CSRV_000139"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#CSRV_000140"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#CSRV_000141"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#CSRV_000142"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#CSRV_000143"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#CSRV_000144"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#CSRV_000145"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#CSRV_000146"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#CSRV_000147"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#CSRV_000212"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#CSRV_000214"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#CSRV_000148"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#CSRV_000149"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#CSRV_000150"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#CSRV_000163"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#CSRV_000167"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#CSRV_000168"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#CSRV_000169"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#CSRV_000170"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#CSRV_000223"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#CSRV_000247"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#CSRV_000254"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#CSRV_000255"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#CSRV_000256"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#CSRV_000270"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#CSRV_000271"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#CSRV_000272"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#CSRV_000275"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="#CSRV_000174"/>
+    </Declaration>
+    <Declaration>
+        <Datatype IRI="#CSRV_000158"/>
+    </Declaration>
+    <Declaration>
+        <Datatype IRI="#CSRV_000161"/>
+    </Declaration>
+    <Declaration>
+        <Datatype IRI="#CSRV_000166"/>
+    </Declaration>
+    <Declaration>
+        <Datatype IRI="#CSRV_000220"/>
+    </Declaration>
+    <Declaration>
+        <Datatype IRI="#CSRV_000221"/>
+    </Declaration>
+    <Declaration>
+        <Datatype IRI="#CSRV_000226"/>
+    </Declaration>
+    <Declaration>
+        <Datatype IRI="#CSRV_000244"/>
+    </Declaration>
+    <EquivalentClasses>
+        <Class IRI="#CSRV_000086"/>
+        <ObjectIntersectionOf>
+            <Class IRI="#CSRV_000249"/>
+            <ObjectUnionOf>
+                <DataSomeValuesFrom>
+                    <DataProperty IRI="#CSRV_000168"/>
+                    <DatatypeRestriction>
+                        <Datatype IRI="#CSRV_000158"/>
+                        <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#maxExclusive">
+                            <Literal datatypeIRI="http://www.csrv.com/ontologies/2021/3/CSRV#CSRV_000158">16</Literal>
+                        </FacetRestriction>
+                    </DatatypeRestriction>
+                </DataSomeValuesFrom>
+                <DataSomeValuesFrom>
+                    <DataProperty IRI="#CSRV_000270"/>
+                    <DatatypeRestriction>
+                        <Datatype IRI="#CSRV_000161"/>
+                        <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#maxExclusive">
+                            <Literal datatypeIRI="http://www.csrv.com/ontologies/2021/3/CSRV#CSRV_000161">192</Literal>
+                        </FacetRestriction>
+                    </DatatypeRestriction>
+                </DataSomeValuesFrom>
+                <DataSomeValuesFrom>
+                    <DataProperty IRI="#CSRV_000275"/>
+                    <DatatypeRestriction>
+                        <Datatype IRI="#CSRV_000158"/>
+                        <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#maxExclusive">
+                            <Literal datatypeIRI="http://www.csrv.com/ontologies/2021/3/CSRV#CSRV_000158">16</Literal>
+                        </FacetRestriction>
+                    </DatatypeRestriction>
+                </DataSomeValuesFrom>
+            </ObjectUnionOf>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#CSRV_000137"/>
+                <Class IRI="#CSRV_000274"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#CSRV_000087"/>
+        <ObjectIntersectionOf>
+            <Class IRI="#CSRV_000251"/>
+            <ObjectUnionOf>
+                <DataSomeValuesFrom>
+                    <DataProperty IRI="#CSRV_000167"/>
+                    <DatatypeRestriction>
+                        <Datatype IRI="#CSRV_000244"/>
+                        <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#minInclusive">
+                            <Literal datatypeIRI="http://www.csrv.com/ontologies/2021/3/CSRV#CSRV_000244">7300</Literal>
+                        </FacetRestriction>
+                        <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#maxInclusive">
+                            <Literal datatypeIRI="http://www.csrv.com/ontologies/2021/3/CSRV#CSRV_000244">14600</Literal>
+                        </FacetRestriction>
+                    </DatatypeRestriction>
+                </DataSomeValuesFrom>
+                <DataSomeValuesFrom>
+                    <DataProperty IRI="#CSRV_000271"/>
+                    <DatatypeRestriction>
+                        <Datatype IRI="#CSRV_000161"/>
+                        <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#minInclusive">
+                            <Literal datatypeIRI="http://www.csrv.com/ontologies/2021/3/CSRV#CSRV_000161">240</Literal>
+                        </FacetRestriction>
+                        <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#maxInclusive">
+                            <Literal datatypeIRI="http://www.csrv.com/ontologies/2021/3/CSRV#CSRV_000161">480</Literal>
+                        </FacetRestriction>
+                    </DatatypeRestriction>
+                </DataSomeValuesFrom>
+                <DataSomeValuesFrom>
+                    <DataProperty IRI="#CSRV_000272"/>
+                    <DatatypeRestriction>
+                        <Datatype IRI="#CSRV_000158"/>
+                        <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#minInclusive">
+                            <Literal datatypeIRI="http://www.csrv.com/ontologies/2021/3/CSRV#CSRV_000158">20</Literal>
+                        </FacetRestriction>
+                        <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#maxInclusive">
+                            <Literal datatypeIRI="http://www.csrv.com/ontologies/2021/3/CSRV#CSRV_000158">40</Literal>
+                        </FacetRestriction>
+                    </DatatypeRestriction>
+                </DataSomeValuesFrom>
+            </ObjectUnionOf>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#CSRV_000090"/>
+        <ObjectIntersectionOf>
+            <Class IRI="#CSRV_000249"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#CSRV_000134"/>
+                <Class IRI="#CSRV_000003"/>
+            </ObjectSomeValuesFrom>
+            <DataSomeValuesFrom>
+                <DataProperty IRI="#CSRV_000163"/>
+                <DatatypeRestriction>
+                    <Datatype IRI="#CSRV_000244"/>
+                    <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#minInclusive">
+                        <Literal datatypeIRI="http://www.csrv.com/ontologies/2021/3/CSRV#CSRV_000244">0</Literal>
+                    </FacetRestriction>
+                </DatatypeRestriction>
+            </DataSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#CSRV_000092"/>
+        <ObjectIntersectionOf>
+            <Class IRI="#CSRV_000249"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#CSRV_000137"/>
+                <ObjectIntersectionOf>
+                    <ObjectSomeValuesFrom>
+                        <ObjectProperty IRI="#CSRV_000144"/>
+                        <Class IRI="#CSRV_000006"/>
+                    </ObjectSomeValuesFrom>
+                    <DataSomeValuesFrom>
+                        <DataProperty IRI="#CSRV_000169"/>
+                        <DatatypeRestriction>
+                            <Datatype abbreviatedIRI="xsd:int"/>
+                            <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#minExclusive">
+                                <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">3</Literal>
+                            </FacetRestriction>
+                        </DatatypeRestriction>
+                    </DataSomeValuesFrom>
+                </ObjectIntersectionOf>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#CSRV_000145"/>
+                <Class IRI="#CSRV_000152"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#CSRV_000093"/>
+        <ObjectIntersectionOf>
+            <Class IRI="#CSRV_000249"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#CSRV_000138"/>
+                <ObjectIntersectionOf>
+                    <ObjectUnionOf>
+                        <DataHasValue>
+                            <DataProperty IRI="#CSRV_000170"/>
+                            <Literal datatypeIRI="http://www.csrv.com/ontologies/2021/3/CSRV#CSRV_000161">1</Literal>
+                        </DataHasValue>
+                        <DataHasValue>
+                            <DataProperty IRI="#CSRV_000255"/>
+                            <Literal datatypeIRI="http://www.csrv.com/ontologies/2021/3/CSRV#CSRV_000244">30</Literal>
+                        </DataHasValue>
+                    </ObjectUnionOf>
+                    <ObjectSomeValuesFrom>
+                        <ObjectProperty IRI="#CSRV_000137"/>
+                        <ObjectIntersectionOf>
+                            <ObjectSomeValuesFrom>
+                                <ObjectProperty IRI="#CSRV_000144"/>
+                                <Class IRI="#CSRV_000004"/>
+                            </ObjectSomeValuesFrom>
+                            <DataSomeValuesFrom>
+                                <DataProperty IRI="#CSRV_000169"/>
+                                <DatatypeRestriction>
+                                    <Datatype abbreviatedIRI="xsd:int"/>
+                                    <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#minExclusive">
+                                        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">50</Literal>
+                                    </FacetRestriction>
+                                </DatatypeRestriction>
+                            </DataSomeValuesFrom>
+                        </ObjectIntersectionOf>
+                    </ObjectSomeValuesFrom>
+                </ObjectIntersectionOf>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#CSRV_000145"/>
+                <Class IRI="#CSRV_000116"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#CSRV_000094"/>
+        <ObjectIntersectionOf>
+            <Class IRI="#CSRV_000249"/>
+            <ObjectUnionOf>
+                <DataSomeValuesFrom>
+                    <DataProperty IRI="#CSRV_000163"/>
+                    <DatatypeRestriction>
+                        <Datatype IRI="#CSRV_000244"/>
+                        <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#minInclusive">
+                            <Literal datatypeIRI="http://www.csrv.com/ontologies/2021/3/CSRV#CSRV_000244">365</Literal>
+                        </FacetRestriction>
+                        <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#maxInclusive">
+                            <Literal datatypeIRI="http://www.csrv.com/ontologies/2021/3/CSRV#CSRV_000244">1825</Literal>
+                        </FacetRestriction>
+                    </DatatypeRestriction>
+                </DataSomeValuesFrom>
+                <DataSomeValuesFrom>
+                    <DataProperty IRI="#CSRV_000247"/>
+                    <DatatypeRestriction>
+                        <Datatype IRI="#CSRV_000158"/>
+                        <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#minInclusive">
+                            <Literal datatypeIRI="http://www.csrv.com/ontologies/2021/3/CSRV#CSRV_000158">1</Literal>
+                        </FacetRestriction>
+                        <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#maxInclusive">
+                            <Literal datatypeIRI="http://www.csrv.com/ontologies/2021/3/CSRV#CSRV_000158">5</Literal>
+                        </FacetRestriction>
+                    </DatatypeRestriction>
+                </DataSomeValuesFrom>
+                <DataSomeValuesFrom>
+                    <DataProperty IRI="#CSRV_000256"/>
+                    <DatatypeRestriction>
+                        <Datatype IRI="#CSRV_000161"/>
+                        <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#minInclusive">
+                            <Literal datatypeIRI="http://www.csrv.com/ontologies/2021/3/CSRV#CSRV_000161">12</Literal>
+                        </FacetRestriction>
+                        <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#maxInclusive">
+                            <Literal datatypeIRI="http://www.csrv.com/ontologies/2021/3/CSRV#CSRV_000161">60</Literal>
+                        </FacetRestriction>
+                    </DatatypeRestriction>
+                </DataSomeValuesFrom>
+            </ObjectUnionOf>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#CSRV_000134"/>
+                <Class IRI="#CSRV_000004"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#CSRV_000095"/>
+        <ObjectIntersectionOf>
+            <Class IRI="#CSRV_000252"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#CSRV_000144"/>
+                <Class IRI="#CSRV_000008"/>
+            </ObjectSomeValuesFrom>
+            <DataSomeValuesFrom>
+                <DataProperty IRI="#CSRV_000169"/>
+                <DatatypeRestriction>
+                    <Datatype abbreviatedIRI="xsd:int"/>
+                    <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#minInclusive">
+                        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">1</Literal>
+                    </FacetRestriction>
+                </DatatypeRestriction>
+            </DataSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#CSRV_000096"/>
+        <ObjectIntersectionOf>
+            <Class IRI="#CSRV_000249"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#CSRV_000138"/>
+                <ObjectIntersectionOf>
+                    <ObjectUnionOf>
+                        <DataHasValue>
+                            <DataProperty IRI="#CSRV_000170"/>
+                            <Literal datatypeIRI="http://www.csrv.com/ontologies/2021/3/CSRV#CSRV_000161">1</Literal>
+                        </DataHasValue>
+                        <DataHasValue>
+                            <DataProperty IRI="#CSRV_000255"/>
+                            <Literal datatypeIRI="http://www.csrv.com/ontologies/2021/3/CSRV#CSRV_000244">30</Literal>
+                        </DataHasValue>
+                    </ObjectUnionOf>
+                    <ObjectSomeValuesFrom>
+                        <ObjectProperty IRI="#CSRV_000137"/>
+                        <ObjectIntersectionOf>
+                            <ObjectSomeValuesFrom>
+                                <ObjectProperty IRI="#CSRV_000144"/>
+                                <Class IRI="#CSRV_000004"/>
+                            </ObjectSomeValuesFrom>
+                            <DataSomeValuesFrom>
+                                <DataProperty IRI="#CSRV_000169"/>
+                                <DatatypeRestriction>
+                                    <Datatype abbreviatedIRI="xsd:int"/>
+                                    <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#minInclusive">
+                                        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">1</Literal>
+                                    </FacetRestriction>
+                                </DatatypeRestriction>
+                            </DataSomeValuesFrom>
+                        </ObjectIntersectionOf>
+                    </ObjectSomeValuesFrom>
+                </ObjectIntersectionOf>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#CSRV_000145"/>
+                <Class IRI="#CSRV_000116"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#CSRV_000097"/>
+        <ObjectIntersectionOf>
+            <Class IRI="#CSRV_000249"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#CSRV_000137"/>
+                <ObjectIntersectionOf>
+                    <ObjectSomeValuesFrom>
+                        <ObjectProperty IRI="#CSRV_000144"/>
+                        <Class IRI="#CSRV_000006"/>
+                    </ObjectSomeValuesFrom>
+                    <DataSomeValuesFrom>
+                        <DataProperty IRI="#CSRV_000169"/>
+                        <DatatypeRestriction>
+                            <Datatype abbreviatedIRI="xsd:int"/>
+                            <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#minInclusive">
+                                <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">1</Literal>
+                            </FacetRestriction>
+                        </DatatypeRestriction>
+                    </DataSomeValuesFrom>
+                </ObjectIntersectionOf>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#CSRV_000145"/>
+                <Class IRI="#CSRV_000152"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#CSRV_000100"/>
+        <ObjectIntersectionOf>
+            <Class IRI="#CSRV_000090"/>
+            <ObjectUnionOf>
+                <DataSomeValuesFrom>
+                    <DataProperty IRI="#CSRV_000163"/>
+                    <DatatypeRestriction>
+                        <Datatype IRI="#CSRV_000244"/>
+                        <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#minInclusive">
+                            <Literal datatypeIRI="http://www.csrv.com/ontologies/2021/3/CSRV#CSRV_000244">5475</Literal>
+                        </FacetRestriction>
+                    </DatatypeRestriction>
+                </DataSomeValuesFrom>
+                <DataSomeValuesFrom>
+                    <DataProperty IRI="#CSRV_000247"/>
+                    <DatatypeRestriction>
+                        <Datatype IRI="#CSRV_000158"/>
+                        <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#minInclusive">
+                            <Literal datatypeIRI="http://www.csrv.com/ontologies/2021/3/CSRV#CSRV_000158">15</Literal>
+                        </FacetRestriction>
+                    </DatatypeRestriction>
+                </DataSomeValuesFrom>
+                <DataSomeValuesFrom>
+                    <DataProperty IRI="#CSRV_000256"/>
+                    <DatatypeRestriction>
+                        <Datatype IRI="#CSRV_000161"/>
+                        <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#minInclusive">
+                            <Literal datatypeIRI="http://www.csrv.com/ontologies/2021/3/CSRV#CSRV_000161">180</Literal>
+                        </FacetRestriction>
+                    </DatatypeRestriction>
+                </DataSomeValuesFrom>
+            </ObjectUnionOf>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#CSRV_000134"/>
+                <Class IRI="#CSRV_000003"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#CSRV_000101"/>
+        <ObjectIntersectionOf>
+            <Class IRI="#CSRV_000090"/>
+            <ObjectUnionOf>
+                <DataSomeValuesFrom>
+                    <DataProperty IRI="#CSRV_000163"/>
+                    <DatatypeRestriction>
+                        <Datatype IRI="#CSRV_000244"/>
+                        <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#minExclusive">
+                            <Literal datatypeIRI="http://www.csrv.com/ontologies/2021/3/CSRV#CSRV_000244">10950</Literal>
+                        </FacetRestriction>
+                    </DatatypeRestriction>
+                </DataSomeValuesFrom>
+                <DataSomeValuesFrom>
+                    <DataProperty IRI="#CSRV_000247"/>
+                    <DatatypeRestriction>
+                        <Datatype IRI="#CSRV_000158"/>
+                        <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#minExclusive">
+                            <Literal datatypeIRI="http://www.csrv.com/ontologies/2021/3/CSRV#CSRV_000158">30</Literal>
+                        </FacetRestriction>
+                    </DatatypeRestriction>
+                </DataSomeValuesFrom>
+                <DataSomeValuesFrom>
+                    <DataProperty IRI="#CSRV_000256"/>
+                    <DatatypeRestriction>
+                        <Datatype IRI="#CSRV_000161"/>
+                        <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#minExclusive">
+                            <Literal datatypeIRI="http://www.csrv.com/ontologies/2021/3/CSRV#CSRV_000161">360</Literal>
+                        </FacetRestriction>
+                    </DatatypeRestriction>
+                </DataSomeValuesFrom>
+            </ObjectUnionOf>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#CSRV_000134"/>
+                <Class IRI="#CSRV_000003"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#CSRV_000102"/>
+        <ObjectIntersectionOf>
+            <Class IRI="#CSRV_000091"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#CSRV_000144"/>
+                <Class IRI="#CSRV_000005"/>
+            </ObjectSomeValuesFrom>
+            <DataSomeValuesFrom>
+                <DataProperty IRI="#CSRV_000169"/>
+                <DatatypeRestriction>
+                    <Datatype abbreviatedIRI="xsd:int"/>
+                    <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#minExclusive">
+                        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">3</Literal>
+                    </FacetRestriction>
+                </DatatypeRestriction>
+            </DataSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#CSRV_000103"/>
+        <ObjectIntersectionOf>
+            <Class IRI="#CSRV_000252"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#CSRV_000144"/>
+                <Class IRI="#CSRV_000008"/>
+            </ObjectSomeValuesFrom>
+            <DataSomeValuesFrom>
+                <DataProperty IRI="#CSRV_000169"/>
+                <DatatypeRestriction>
+                    <Datatype abbreviatedIRI="xsd:int"/>
+                    <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#minInclusive">
+                        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">3</Literal>
+                    </FacetRestriction>
+                </DatatypeRestriction>
+            </DataSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#CSRV_000164"/>
+        <ObjectIntersectionOf>
+            <Class IRI="#CSRV_000090"/>
+            <ObjectUnionOf>
+                <DataSomeValuesFrom>
+                    <DataProperty IRI="#CSRV_000163"/>
+                    <DatatypeRestriction>
+                        <Datatype IRI="#CSRV_000244"/>
+                        <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#minInclusive">
+                            <Literal datatypeIRI="http://www.csrv.com/ontologies/2021/3/CSRV#CSRV_000244">5475</Literal>
+                        </FacetRestriction>
+                        <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#maxInclusive">
+                            <Literal datatypeIRI="http://www.csrv.com/ontologies/2021/3/CSRV#CSRV_000244">10950</Literal>
+                        </FacetRestriction>
+                    </DatatypeRestriction>
+                </DataSomeValuesFrom>
+                <DataSomeValuesFrom>
+                    <DataProperty IRI="#CSRV_000247"/>
+                    <DatatypeRestriction>
+                        <Datatype IRI="#CSRV_000158"/>
+                        <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#minInclusive">
+                            <Literal datatypeIRI="http://www.csrv.com/ontologies/2021/3/CSRV#CSRV_000158">15</Literal>
+                        </FacetRestriction>
+                        <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#maxInclusive">
+                            <Literal datatypeIRI="http://www.csrv.com/ontologies/2021/3/CSRV#CSRV_000158">30</Literal>
+                        </FacetRestriction>
+                    </DatatypeRestriction>
+                </DataSomeValuesFrom>
+                <DataSomeValuesFrom>
+                    <DataProperty IRI="#CSRV_000256"/>
+                    <DatatypeRestriction>
+                        <Datatype IRI="#CSRV_000161"/>
+                        <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#minInclusive">
+                            <Literal datatypeIRI="http://www.csrv.com/ontologies/2021/3/CSRV#CSRV_000161">180</Literal>
+                        </FacetRestriction>
+                        <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#maxInclusive">
+                            <Literal datatypeIRI="http://www.csrv.com/ontologies/2021/3/CSRV#CSRV_000161">360</Literal>
+                        </FacetRestriction>
+                    </DatatypeRestriction>
+                </DataSomeValuesFrom>
+            </ObjectUnionOf>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#CSRV_000134"/>
+                <Class IRI="#CSRV_000003"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#CSRV_000211"/>
+        <ObjectIntersectionOf>
+            <Class IRI="#CSRV_000249"/>
+            <ObjectUnionOf>
+                <DataHasValue>
+                    <DataProperty IRI="#CSRV_000170"/>
+                    <Literal datatypeIRI="http://www.csrv.com/ontologies/2021/3/CSRV#CSRV_000161">3</Literal>
+                </DataHasValue>
+                <DataHasValue>
+                    <DataProperty IRI="#CSRV_000255"/>
+                    <Literal datatypeIRI="http://www.csrv.com/ontologies/2021/3/CSRV#CSRV_000244">90</Literal>
+                </DataHasValue>
+            </ObjectUnionOf>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#CSRV_000137"/>
+                <ObjectIntersectionOf>
+                    <ObjectSomeValuesFrom>
+                        <ObjectProperty IRI="#CSRV_000144"/>
+                        <Class IRI="#CSRV_000002"/>
+                    </ObjectSomeValuesFrom>
+                    <DataSomeValuesFrom>
+                        <DataProperty IRI="#CSRV_000169"/>
+                        <DatatypeRestriction>
+                            <Datatype abbreviatedIRI="xsd:int"/>
+                            <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#maxInclusive">
+                                <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">20</Literal>
+                            </FacetRestriction>
+                        </DatatypeRestriction>
+                    </DataSomeValuesFrom>
+                </ObjectIntersectionOf>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <SubClassOf>
+        <Class IRI="#CSRV_000002"/>
+        <Class IRI="#CSRV_000001"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000003"/>
+        <Class IRI="#CSRV_000001"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000004"/>
+        <Class IRI="#CSRV_000001"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000005"/>
+        <Class IRI="#CSRV_000006"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000006"/>
+        <Class IRI="#CSRV_000192"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000008"/>
+        <Class IRI="#CSRV_000007"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000009"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000010"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000011"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000012"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000013"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000014"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000015"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000016"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000017"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000018"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000019"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000020"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000021"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000022"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000023"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000024"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000025"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000026"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000027"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000028"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000029"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000030"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000031"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000032"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000033"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000034"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000035"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000036"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000037"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000038"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000039"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000040"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000041"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000042"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000043"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000044"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000045"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000046"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000047"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000048"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000049"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000050"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000051"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000052"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000053"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000054"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000055"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000056"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000057"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000058"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000059"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000060"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000061"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000062"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000063"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000064"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000065"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000066"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000067"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000068"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000069"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000070"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000071"/>
+        <Class IRI="#CSRV_000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000086"/>
+        <Class IRI="#CSRV_000249"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000088"/>
+        <Class IRI="#CSRV_000310"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000088"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#CSRV_000135"/>
+            <Class IRI="#CSRV_000013"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000089"/>
+        <Class IRI="#CSRV_000310"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000089"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#CSRV_000135"/>
+            <Class IRI="#CSRV_000038"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000091"/>
+        <Class IRI="#CSRV_000249"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000111"/>
+        <Class IRI="#CSRV_000107"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000116"/>
+        <Class IRI="#CSRV_000111"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000152"/>
+        <Class IRI="#CSRV_000111"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000175"/>
+        <Class IRI="#CSRV_000004"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000176"/>
+        <Class IRI="#CSRV_000175"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000177"/>
+        <Class IRI="#CSRV_000175"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000178"/>
+        <Class IRI="#CSRV_000175"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000179"/>
+        <Class IRI="#CSRV_000175"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000180"/>
+        <Class IRI="#CSRV_000175"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000181"/>
+        <Class IRI="#CSRV_000175"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000182"/>
+        <Class IRI="#CSRV_000175"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000183"/>
+        <Class IRI="#CSRV_000175"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000184"/>
+        <Class IRI="#CSRV_000175"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000185"/>
+        <Class IRI="#CSRV_000175"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000186"/>
+        <Class IRI="#CSRV_000004"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000187"/>
+        <Class IRI="#CSRV_000186"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000188"/>
+        <Class IRI="#CSRV_000186"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000189"/>
+        <Class IRI="#CSRV_000186"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000190"/>
+        <Class IRI="#CSRV_000186"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000191"/>
+        <Class IRI="#CSRV_000004"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000192"/>
+        <Class IRI="#CSRV_000191"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000193"/>
+        <Class IRI="#CSRV_000192"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000194"/>
+        <Class IRI="#CSRV_000192"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000195"/>
+        <Class IRI="#CSRV_000192"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000197"/>
+        <Class IRI="#CSRV_000192"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000198"/>
+        <Class IRI="#CSRV_000192"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000199"/>
+        <Class IRI="#CSRV_000191"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000200"/>
+        <Class IRI="#CSRV_000199"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000201"/>
+        <Class IRI="#CSRV_000199"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000202"/>
+        <Class IRI="#CSRV_000199"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000203"/>
+        <Class IRI="#CSRV_000004"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000204"/>
+        <Class IRI="#CSRV_000203"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000205"/>
+        <Class IRI="#CSRV_000203"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000206"/>
+        <Class IRI="#CSRV_000203"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000207"/>
+        <Class IRI="#CSRV_000203"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000208"/>
+        <Class IRI="#CSRV_000203"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000216"/>
+        <Class IRI="#CSRV_000107"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000217"/>
+        <Class IRI="#CSRV_000107"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000218"/>
+        <Class IRI="#CSRV_000107"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000219"/>
+        <Class IRI="#CSRV_000107"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000248"/>
+        <Class IRI="#CSRV_000085"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000249"/>
+        <Class IRI="#CSRV_000085"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000250"/>
+        <Class IRI="#CSRV_000085"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000251"/>
+        <Class IRI="#CSRV_000085"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000252"/>
+        <Class IRI="#CSRV_000085"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000253"/>
+        <Class IRI="#CSRV_000085"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000257"/>
+        <Class IRI="#CSRV_000251"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000258"/>
+        <Class IRI="#CSRV_000250"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000259"/>
+        <Class IRI="#CSRV_000250"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000260"/>
+        <Class IRI="#CSRV_000252"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000261"/>
+        <Class IRI="#CSRV_000253"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000262"/>
+        <Class IRI="#CSRV_000253"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000263"/>
+        <Class IRI="#CSRV_000248"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000264"/>
+        <Class IRI="#CSRV_000248"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000265"/>
+        <Class IRI="#CSRV_000248"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000266"/>
+        <Class IRI="#CSRV_000248"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000267"/>
+        <Class IRI="#CSRV_000248"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000268"/>
+        <Class IRI="#CSRV_000248"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000269"/>
+        <Class IRI="#CSRV_000248"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000274"/>
+        <Class IRI="#CSRV_000273"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000274"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#CSRV_000134"/>
+            <Class IRI="#CSRV_000004"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000303"/>
+        <Class IRI="#CSRV_000249"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000304"/>
+        <Class IRI="#CSRV_000249"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000305"/>
+        <Class IRI="#CSRV_000249"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000306"/>
+        <Class IRI="#CSRV_000252"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000307"/>
+        <Class IRI="#CSRV_000252"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000308"/>
+        <Class IRI="#CSRV_000252"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000309"/>
+        <Class IRI="#CSRV_000253"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000310"/>
+        <Class IRI="#CSRV_000252"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000312"/>
+        <Class IRI="#CSRV_000249"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000313"/>
+        <Class IRI="#CSRV_000249"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000314"/>
+        <Class IRI="#CSRV_000249"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000315"/>
+        <Class IRI="#CSRV_000252"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000316"/>
+        <Class IRI="#CSRV_000249"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CSRV_000317"/>
+        <Class IRI="#CSRV_000316"/>
+    </SubClassOf>
+    <DisjointClasses>
+        <Class IRI="#CSRV_000009"/>
+        <Class IRI="#CSRV_000010"/>
+        <Class IRI="#CSRV_000011"/>
+        <Class IRI="#CSRV_000012"/>
+        <Class IRI="#CSRV_000013"/>
+        <Class IRI="#CSRV_000014"/>
+        <Class IRI="#CSRV_000015"/>
+        <Class IRI="#CSRV_000016"/>
+        <Class IRI="#CSRV_000017"/>
+        <Class IRI="#CSRV_000018"/>
+        <Class IRI="#CSRV_000019"/>
+        <Class IRI="#CSRV_000020"/>
+        <Class IRI="#CSRV_000021"/>
+        <Class IRI="#CSRV_000022"/>
+        <Class IRI="#CSRV_000023"/>
+        <Class IRI="#CSRV_000024"/>
+        <Class IRI="#CSRV_000025"/>
+        <Class IRI="#CSRV_000026"/>
+        <Class IRI="#CSRV_000027"/>
+        <Class IRI="#CSRV_000028"/>
+        <Class IRI="#CSRV_000029"/>
+        <Class IRI="#CSRV_000030"/>
+        <Class IRI="#CSRV_000031"/>
+        <Class IRI="#CSRV_000032"/>
+        <Class IRI="#CSRV_000033"/>
+        <Class IRI="#CSRV_000034"/>
+        <Class IRI="#CSRV_000035"/>
+        <Class IRI="#CSRV_000036"/>
+        <Class IRI="#CSRV_000037"/>
+        <Class IRI="#CSRV_000038"/>
+        <Class IRI="#CSRV_000039"/>
+        <Class IRI="#CSRV_000040"/>
+        <Class IRI="#CSRV_000041"/>
+        <Class IRI="#CSRV_000042"/>
+        <Class IRI="#CSRV_000043"/>
+        <Class IRI="#CSRV_000044"/>
+        <Class IRI="#CSRV_000045"/>
+        <Class IRI="#CSRV_000046"/>
+        <Class IRI="#CSRV_000047"/>
+        <Class IRI="#CSRV_000048"/>
+        <Class IRI="#CSRV_000049"/>
+        <Class IRI="#CSRV_000050"/>
+        <Class IRI="#CSRV_000051"/>
+        <Class IRI="#CSRV_000052"/>
+        <Class IRI="#CSRV_000053"/>
+        <Class IRI="#CSRV_000054"/>
+        <Class IRI="#CSRV_000055"/>
+        <Class IRI="#CSRV_000056"/>
+        <Class IRI="#CSRV_000057"/>
+        <Class IRI="#CSRV_000058"/>
+        <Class IRI="#CSRV_000059"/>
+        <Class IRI="#CSRV_000060"/>
+        <Class IRI="#CSRV_000061"/>
+        <Class IRI="#CSRV_000062"/>
+        <Class IRI="#CSRV_000063"/>
+        <Class IRI="#CSRV_000064"/>
+        <Class IRI="#CSRV_000065"/>
+        <Class IRI="#CSRV_000066"/>
+        <Class IRI="#CSRV_000067"/>
+        <Class IRI="#CSRV_000068"/>
+        <Class IRI="#CSRV_000069"/>
+        <Class IRI="#CSRV_000070"/>
+        <Class IRI="#CSRV_000071"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#CSRV_000111"/>
+        <Class IRI="#CSRV_000216"/>
+        <Class IRI="#CSRV_000217"/>
+        <Class IRI="#CSRV_000218"/>
+        <Class IRI="#CSRV_000219"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#CSRV_000176"/>
+        <Class IRI="#CSRV_000177"/>
+        <Class IRI="#CSRV_000178"/>
+        <Class IRI="#CSRV_000179"/>
+        <Class IRI="#CSRV_000180"/>
+        <Class IRI="#CSRV_000181"/>
+        <Class IRI="#CSRV_000182"/>
+        <Class IRI="#CSRV_000183"/>
+        <Class IRI="#CSRV_000184"/>
+        <Class IRI="#CSRV_000185"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#CSRV_000187"/>
+        <Class IRI="#CSRV_000188"/>
+        <Class IRI="#CSRV_000189"/>
+        <Class IRI="#CSRV_000190"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#CSRV_000192"/>
+        <Class IRI="#CSRV_000199"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#CSRV_000200"/>
+        <Class IRI="#CSRV_000201"/>
+        <Class IRI="#CSRV_000202"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#CSRV_000204"/>
+        <Class IRI="#CSRV_000205"/>
+        <Class IRI="#CSRV_000206"/>
+        <Class IRI="#CSRV_000207"/>
+        <Class IRI="#CSRV_000208"/>
+    </DisjointClasses>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#CSRV_000133"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#CSRV_000134"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#CSRV_000135"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#CSRV_000136"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#CSRV_000137"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#CSRV_000138"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#CSRV_000139"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#CSRV_000140"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#CSRV_000141"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#CSRV_000142"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#CSRV_000143"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#CSRV_000144"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#CSRV_000145"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#CSRV_000146"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#CSRV_000147"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#CSRV_000148"/>
+        <DataProperty abbreviatedIRI="owl:topDataProperty"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#CSRV_000149"/>
+        <DataProperty abbreviatedIRI="owl:topDataProperty"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#CSRV_000150"/>
+        <DataProperty abbreviatedIRI="owl:topDataProperty"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#CSRV_000270"/>
+        <DataProperty abbreviatedIRI="owl:topDataProperty"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#CSRV_000271"/>
+        <DataProperty abbreviatedIRI="owl:topDataProperty"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#CSRV_000272"/>
+        <DataProperty abbreviatedIRI="owl:topDataProperty"/>
+    </SubDataPropertyOf>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000001</IRI>
+        <Literal xml:lang="en">Disease or disorder</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000002</IRI>
+        <Literal xml:lang="en">Convulsions</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000003</IRI>
+        <Literal xml:lang="en">Epilepsy</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#CSRV_000174"/>
+        <IRI>#CSRV_000004</IRI>
+        <Literal>Seizure semiology</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000004</IRI>
+        <Literal xml:lang="en">Seizure</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#CSRV_000174"/>
+        <IRI>#CSRV_000005</IRI>
+        <Literal>Generalized tonic-clonic epilepsy</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000005</IRI>
+        <Literal xml:lang="en">Generalized tonic-clonic seizure</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000006</IRI>
+        <Literal xml:lang="en">Tonic-Clonic Seizure</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000007</IRI>
+        <Literal xml:lang="en">Drug</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000008</IRI>
+        <Literal xml:lang="en">AED</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000009</IRI>
+        <Literal xml:lang="en">ACTH</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000010</IRI>
+        <Literal xml:lang="en">Aptiom</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000011</IRI>
+        <Literal xml:lang="en">Ativan®</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000012</IRI>
+        <Literal xml:lang="en">Banzel</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000013</IRI>
+        <Literal xml:lang="en">Carbamazepine</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000014</IRI>
+        <Literal xml:lang="en">Carbatrol®</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000015</IRI>
+        <Literal xml:lang="en">Clobazam</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000016</IRI>
+        <Literal xml:lang="en">Clonazepam</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000017</IRI>
+        <Literal xml:lang="en">Depakene®</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000018</IRI>
+        <Literal xml:lang="en">Depakote®</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000019</IRI>
+        <Literal xml:lang="en">Depakote ER®</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000020</IRI>
+        <Literal xml:lang="en">Diastat®</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000021</IRI>
+        <Literal xml:lang="en">Diazepam</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000022</IRI>
+        <Literal xml:lang="en">Dilantin®</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000023</IRI>
+        <Literal xml:lang="en">Eslicarbazepine</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000024</IRI>
+        <Literal xml:lang="en">Ethosuximide</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000025</IRI>
+        <Literal xml:lang="en">Ezogabine</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000026</IRI>
+        <Literal xml:lang="en">Felbatol®</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000027</IRI>
+        <Literal xml:lang="en">Felbamate</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000028</IRI>
+        <Literal xml:lang="en">Fycompa®</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000029</IRI>
+        <Literal xml:lang="en">Frisium</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000030</IRI>
+        <Literal xml:lang="en">Gabapentin</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000031</IRI>
+        <Literal xml:lang="en">Gabitril®</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000032</IRI>
+        <Literal xml:lang="en">Inovelon®</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000033</IRI>
+        <Literal xml:lang="en">Keppra®</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000034</IRI>
+        <Literal xml:lang="en">Keppra XR®</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000035</IRI>
+        <Literal xml:lang="en">Klonopin</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000036</IRI>
+        <Literal xml:lang="en">Lacosamide</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000037</IRI>
+        <Literal xml:lang="en">Lamictal®</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000038</IRI>
+        <Literal xml:lang="en">Lamotrigine</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000039</IRI>
+        <Literal xml:lang="en">Levetiracetam</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000040</IRI>
+        <Literal xml:lang="en">Lorazepam</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000041</IRI>
+        <Literal xml:lang="en">Luminal</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000042</IRI>
+        <Literal xml:lang="en">Lyrica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000043</IRI>
+        <Literal xml:lang="en">Mebaral®</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000044</IRI>
+        <Literal xml:lang="en">Mephobarbital</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000045</IRI>
+        <Literal xml:lang="en">Mysoline®</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000046</IRI>
+        <Literal xml:lang="en">Neurontin®</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000047</IRI>
+        <Literal xml:lang="en">Onfi®</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000048</IRI>
+        <Literal xml:lang="en">Oxcarbazepine</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000049</IRI>
+        <Literal xml:lang="en">Perampanel</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000050</IRI>
+        <Literal xml:lang="en">Phenobarbital</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000051</IRI>
+        <Literal xml:lang="en">Phenytek®</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000052</IRI>
+        <Literal xml:lang="en">Phenytoin</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000053</IRI>
+        <Literal xml:lang="en">Potiga®</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000054</IRI>
+        <Literal xml:lang="en">Primidone</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000055</IRI>
+        <Literal xml:lang="en">Qudexy XR®</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000056</IRI>
+        <Literal xml:lang="en">Rufinamide</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000057</IRI>
+        <Literal xml:lang="en">Sabril®</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000058</IRI>
+        <Literal xml:lang="en">Tegretol®</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000059</IRI>
+        <Literal xml:lang="en">Tegretol XR®</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000060</IRI>
+        <Literal xml:lang="en">Tiagabine</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000061</IRI>
+        <Literal xml:lang="en">Topamax®</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000062</IRI>
+        <Literal xml:lang="en">Topiramate</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000063</IRI>
+        <Literal xml:lang="en">Trileptal®</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000064</IRI>
+        <Literal xml:lang="en">Trokendi XR®</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000065</IRI>
+        <Literal xml:lang="en">Valium®</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000066</IRI>
+        <Literal xml:lang="en">Valproic Acid</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000067</IRI>
+        <Literal xml:lang="en">Vigabatrin</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000068</IRI>
+        <Literal xml:lang="en">Vimpat®</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000069</IRI>
+        <Literal xml:lang="en">Zarontin®</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000070</IRI>
+        <Literal xml:lang="en">Zonegran®</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000071</IRI>
+        <Literal xml:lang="en">Zonisamide</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000085</IRI>
+        <Literal xml:lang="en">Risk factor</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000086</IRI>
+        <Literal xml:lang="en">Early seizure onset (less than 16 years)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000087</IRI>
+        <Literal xml:lang="en">Ages 20 to 40</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000088</IRI>
+        <Literal xml:lang="en">Carbamazepine use</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000089</IRI>
+        <Literal xml:lang="en">Lamotrigine use</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000090</IRI>
+        <Literal xml:lang="en">Duration of epilepsy</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000091</IRI>
+        <Literal xml:lang="en">Having generalized tonic-clonic seizures</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000092</IRI>
+        <Literal xml:lang="en">More than 3 tonic-clonic seizures in last year</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000093</IRI>
+        <Literal xml:lang="en">More than 50 seizures per month over last 12 months</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000094</IRI>
+        <Literal xml:lang="en">Not seizure free for 1 to 5 years</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#CSRV_000174"/>
+        <IRI>#CSRV_000095</IRI>
+        <Literal>Number of AEDs used overall</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#CSRV_000174"/>
+        <IRI>#CSRV_000095</IRI>
+        <Literal>number of antiepileptic drugs</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000095</IRI>
+        <Literal xml:lang="en">Number of AEDs</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000096</IRI>
+        <Literal xml:lang="en">One or more seizures per month over the last 12 months</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000097</IRI>
+        <Literal xml:lang="en">One or more tonic-clonic seizures in last year</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000100</IRI>
+        <Literal xml:lang="en">Duration of epilepsy (&gt;= 15 years)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000101</IRI>
+        <Literal xml:lang="en">Duration of epilepsy (&gt; 30 years)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000102</IRI>
+        <Literal xml:lang="en">More than 3 generalized tonic-clonic seizures</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000103</IRI>
+        <Literal xml:lang="en">Three or more AEDs</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000107</IRI>
+        <Literal xml:lang="en">Time measurement</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000111</IRI>
+        <Literal xml:lang="en">Duration</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000116</IRI>
+        <Literal xml:lang="en">Duration: last 12 months</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000133</IRI>
+        <Literal xml:lang="en">hasAge</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000134</IRI>
+        <Literal xml:lang="en">hasCondition</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000135</IRI>
+        <Literal xml:lang="en">hasDrug</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000136</IRI>
+        <Literal xml:lang="en">hasDuration</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000137</IRI>
+        <Literal xml:lang="en">hasEvent</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000138</IRI>
+        <Literal xml:lang="en">hasFrequency</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000139</IRI>
+        <Literal xml:lang="en">hasMaxAge</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000140</IRI>
+        <Literal xml:lang="en">hasMaxDuration</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000141</IRI>
+        <Literal xml:lang="en">hasMinAge</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000142</IRI>
+        <Literal xml:lang="en">hasMinDuration</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000143</IRI>
+        <Literal xml:lang="en">hasNum</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000144</IRI>
+        <Literal xml:lang="en">hasOccurrencesOf</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000145</IRI>
+        <Literal xml:lang="en">hasPeriod</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000146</IRI>
+        <Literal xml:lang="en">hasType</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000147</IRI>
+        <Literal xml:lang="en">hasUnit</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000148</IRI>
+        <Literal xml:lang="en">hasMaxNumericalValue</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000149</IRI>
+        <Literal xml:lang="en">hasMinNumericalValue</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000150</IRI>
+        <Literal xml:lang="en">hasNumericValue</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000152</IRI>
+        <Literal xml:lang="en">Duration: last year</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000158</IRI>
+        <Literal xml:lang="en">year</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000161</IRI>
+        <Literal xml:lang="en">month</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000163</IRI>
+        <Literal xml:lang="en">hasDurationDays</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000164</IRI>
+        <Literal xml:lang="en">Duration of epilepsy (15-30 years)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000166</IRI>
+        <Literal xml:lang="en">race</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000167</IRI>
+        <Literal xml:lang="en">hasAgeDays</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000168</IRI>
+        <Literal xml:lang="en">hasEventOccurringAtAgeYears</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000169</IRI>
+        <Literal xml:lang="en">hasNumOccurrences</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000170</IRI>
+        <Literal xml:lang="en">hasPeriodMonths</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000174</IRI>
+        <Literal xml:lang="en">synonym</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000175</IRI>
+        <Literal xml:lang="en">Autonomic Seizure</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000176</IRI>
+        <Literal xml:lang="en">Tachycardic Seizure</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000177</IRI>
+        <Literal xml:lang="en">Bradycardic Seizure</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000178</IRI>
+        <Literal xml:lang="en">Abdominal Seizure</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000179</IRI>
+        <Literal xml:lang="en">Emetic Seizure</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000180</IRI>
+        <Literal xml:lang="en">Vasomotor Seizure</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000181</IRI>
+        <Literal xml:lang="en">Pilomotor Seizure</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000182</IRI>
+        <Literal xml:lang="en">Hypehydrotic Seizure</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000183</IRI>
+        <Literal xml:lang="en">Sialorrheic Seizure</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000184</IRI>
+        <Literal xml:lang="en">Sexual Seizure</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000185</IRI>
+        <Literal xml:lang="en">Urinary Incontinent Seizure</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000186</IRI>
+        <Literal xml:lang="en">Dyscognitive Seizure</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000187</IRI>
+        <Literal xml:lang="en">Amnestic Seizure</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000188</IRI>
+        <Literal xml:lang="en">Apraxic Seizure</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000189</IRI>
+        <Literal xml:lang="en">Aphasic Seizure</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000190</IRI>
+        <Literal xml:lang="en">Dialeptic Seizure</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000191</IRI>
+        <Literal xml:lang="en">Motor Seizure</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000192</IRI>
+        <Literal xml:lang="en">Simple Motor Seizure</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000193</IRI>
+        <Literal xml:lang="en">Epileptic Spasm</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000194</IRI>
+        <Literal xml:lang="en">Tonic Seizure</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000195</IRI>
+        <Literal xml:lang="en">Clonic Seizure</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000197</IRI>
+        <Literal xml:lang="en">Myoclonic Seizure</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000198</IRI>
+        <Literal xml:lang="en">Versive Seizure</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000199</IRI>
+        <Literal xml:lang="en">Complex Motor Seizure</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000200</IRI>
+        <Literal xml:lang="en">Automotor Seizure</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000201</IRI>
+        <Literal xml:lang="en">Hypermotor Seizure</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000202</IRI>
+        <Literal xml:lang="en">Gelastic Seizure</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000203</IRI>
+        <Literal xml:lang="en">Special Seizure</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000204</IRI>
+        <Literal xml:lang="en">Atonic Seizure</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000205</IRI>
+        <Literal xml:lang="en">Negative Myoclonic Seizure</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000206</IRI>
+        <Literal xml:lang="en">Astatic Seizure</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000207</IRI>
+        <Literal xml:lang="en">Hypomotor Seizure</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000208</IRI>
+        <Literal xml:lang="en">Hypnopompic Seizure</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000211</IRI>
+        <Literal xml:lang="en">Up to 20 convulsions in 3 months</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000212</IRI>
+        <Literal xml:lang="en">Role group</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000214</IRI>
+        <Literal xml:lang="en">duration_years</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000216</IRI>
+        <Literal xml:lang="en">Year</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000217</IRI>
+        <Literal xml:lang="en">Month</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000218</IRI>
+        <Literal xml:lang="en">Week</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000219</IRI>
+        <Literal xml:lang="en">Day</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000220</IRI>
+        <Literal xml:lang="en">month2</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000221</IRI>
+        <Literal xml:lang="en">yes_no</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000223</IRI>
+        <Literal xml:lang="en">test_data_property</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000226</IRI>
+        <Literal xml:lang="en">yes_no_unknown</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000244</IRI>
+        <Literal xml:lang="en">day</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000247</IRI>
+        <Literal xml:lang="en">hasDurationYears</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000248</IRI>
+        <Literal xml:lang="en">Genetic risk factor</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000249</IRI>
+        <Literal xml:lang="en">Biomedical risk factor</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000250</IRI>
+        <Literal xml:lang="en">Behavioural risk factor</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000251</IRI>
+        <Literal xml:lang="en">Demographic risk factor</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000252</IRI>
+        <Literal xml:lang="en">Intervention risk factor</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000253</IRI>
+        <Literal xml:lang="en">Environmental risk factor</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000254</IRI>
+        <Literal xml:lang="en">hasPeriodYears</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000255</IRI>
+        <Literal xml:lang="en">hasPeriodDays</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000256</IRI>
+        <Literal xml:lang="en">hasDurationMonths</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#CSRV_000174"/>
+        <IRI>#CSRV_000257</IRI>
+        <Literal>Male gender</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000257</IRI>
+        <Literal xml:lang="en">Male sex</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#CSRV_000174"/>
+        <IRI>#CSRV_000258</IRI>
+        <Literal>noncompliance</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#CSRV_000174"/>
+        <IRI>#CSRV_000258</IRI>
+        <Literal>noncompliance with prescribed AEDs</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000258</IRI>
+        <Literal xml:lang="en">Compliance issues</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#CSRV_000174"/>
+        <IRI>#CSRV_000259</IRI>
+        <Literal>Alcohol problem</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000259</IRI>
+        <Literal xml:lang="en">Reported alcohol problem</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#CSRV_000174"/>
+        <IRI>#CSRV_000260</IRI>
+        <Literal>Depression treatment</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000260</IRI>
+        <Literal xml:lang="en">Treatment for depression</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000261</IRI>
+        <Literal xml:lang="en">Winter temperatures</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000262</IRI>
+        <Literal xml:lang="en">Living alone</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000263</IRI>
+        <Literal xml:lang="en">KCNA1</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000264</IRI>
+        <Literal xml:lang="en">SCN1A</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000265</IRI>
+        <Literal xml:lang="en">SCN8A</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000266</IRI>
+        <Literal xml:lang="en">HCN2</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000267</IRI>
+        <Literal xml:lang="en">PRRT2</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000268</IRI>
+        <Literal xml:lang="en">Dravet syndrome</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000269</IRI>
+        <Literal xml:lang="en">isodicentric chromosome 15q11.2q13 duplications</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000270</IRI>
+        <Literal xml:lang="en">hasEventOccurringAtAgeMonths</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000271</IRI>
+        <Literal xml:lang="en">hasAgeMonths</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000272</IRI>
+        <Literal xml:lang="en">hasAgeYears</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000273</IRI>
+        <Literal xml:lang="en">Event</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000274</IRI>
+        <Literal xml:lang="en">Seizure onset</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000275</IRI>
+        <Literal xml:lang="en">hasEventOccurringAtAgeDays</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000303</IRI>
+        <Literal>Nocturnal seizures</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#CSRV_000174"/>
+        <IRI>#CSRV_000304</IRI>
+        <Literal>PGES</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000304</IRI>
+        <Literal>Postictal generalized EEG suppression</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000305</IRI>
+        <Literal>Intellectual disability</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#CSRV_000174"/>
+        <IRI>#CSRV_000306</IRI>
+        <Literal>Frequent AED changes</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#CSRV_000174"/>
+        <IRI>#CSRV_000306</IRI>
+        <Literal>Frequent changes in AEDs</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000306</IRI>
+        <Literal>Frequent AED prescribing changes</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#CSRV_000174"/>
+        <IRI>#CSRV_000307</IRI>
+        <Literal>Subtherapeutic AED levels</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000307</IRI>
+        <Literal>Sub therapeutic AED levels</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000308</IRI>
+        <Literal>Anxiolytic medication use</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#CSRV_000174"/>
+        <IRI>#CSRV_000309</IRI>
+        <Literal>No surveillance at night</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000309</IRI>
+        <Literal>Lack of nocturnal supervision</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#CSRV_000174"/>
+        <IRI>#CSRV_000310</IRI>
+        <Literal>Anti Epileptic Drug use</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#CSRV_000174"/>
+        <IRI>#CSRV_000310</IRI>
+        <Literal>Any specific AED</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000310</IRI>
+        <Literal>AED use</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#CSRV_000174"/>
+        <IRI>#CSRV_000312</IRI>
+        <Literal>LQTS</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000312</IRI>
+        <Literal>long QT syndrome</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000313</IRI>
+        <Literal>depression</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000314</IRI>
+        <Literal>psychiatric co-morbidity</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000315</IRI>
+        <Literal>antipsychotic medication use</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000316</IRI>
+        <Literal>development dsiability</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#CSRV_000317</IRI>
+        <Literal>IQ less than 70 or too impaired to test</Literal>
+    </AnnotationAssertion>
+    <DatatypeDefinition>
+        <Datatype IRI="#CSRV_000158"/>
+        <DatatypeRestriction>
+            <Datatype abbreviatedIRI="xsd:int"/>
+            <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#minInclusive">
+                <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">0</Literal>
+            </FacetRestriction>
+        </DatatypeRestriction>
+    </DatatypeDefinition>
+    <DatatypeDefinition>
+        <Datatype IRI="#CSRV_000161"/>
+        <DatatypeRestriction>
+            <Datatype abbreviatedIRI="xsd:int"/>
+            <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#minInclusive">
+                <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">0</Literal>
+            </FacetRestriction>
+        </DatatypeRestriction>
+    </DatatypeDefinition>
+    <DatatypeDefinition>
+        <Datatype IRI="#CSRV_000166"/>
+        <DataOneOf>
+            <Literal>Asian</Literal>
+            <Literal>Black</Literal>
+            <Literal>Hispanic</Literal>
+            <Literal>White</Literal>
+        </DataOneOf>
+    </DatatypeDefinition>
+    <DatatypeDefinition>
+        <Datatype IRI="#CSRV_000220"/>
+        <DataIntersectionOf>
+            <Datatype abbreviatedIRI="rdfs:Literal"/>
+            <DatatypeRestriction>
+                <Datatype abbreviatedIRI="xsd:int"/>
+                <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#minInclusive">
+                    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">0</Literal>
+                </FacetRestriction>
+            </DatatypeRestriction>
+        </DataIntersectionOf>
+    </DatatypeDefinition>
+    <DatatypeDefinition>
+        <Datatype IRI="#CSRV_000221"/>
+        <DataOneOf>
+            <Literal>No</Literal>
+            <Literal>Yes</Literal>
+        </DataOneOf>
+    </DatatypeDefinition>
+    <DatatypeDefinition>
+        <Datatype IRI="#CSRV_000226"/>
+        <DataOneOf>
+            <Literal>No</Literal>
+            <Literal>Unknown</Literal>
+            <Literal>Yes</Literal>
+        </DataOneOf>
+    </DatatypeDefinition>
+    <DatatypeDefinition>
+        <Datatype IRI="#CSRV_000244"/>
+        <DatatypeRestriction>
+            <Datatype abbreviatedIRI="xsd:int"/>
+            <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#minInclusive">
+                <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#int">0</Literal>
+            </FacetRestriction>
+        </DatatypeRestriction>
+    </DatatypeDefinition>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
