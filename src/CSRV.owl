@@ -2317,7 +2317,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#CSRV_000086</IRI>
-        <Literal xml:lang="en">Early seizure onset (less than 16 years)</Literal>
+        <Literal xml:lang="en">Early seizure onset &lt; 16 years</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -2387,12 +2387,12 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#CSRV_000100</IRI>
-        <Literal xml:lang="en">Duration of epilepsy (&gt;= 15 years)</Literal>
+        <Literal xml:lang="en">Duration of epilepsy &gt;= 15 years</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#CSRV_000101</IRI>
-        <Literal xml:lang="en">Duration of epilepsy (&gt; 30 years)</Literal>
+        <Literal xml:lang="en">Duration of epilepsy &gt; 30 years</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -2532,7 +2532,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#CSRV_000164</IRI>
-        <Literal xml:lang="en">Duration of epilepsy (15-30 years)</Literal>
+        <Literal xml:lang="en">Duration of epilepsy 15-30 years</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -3042,27 +3042,27 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#CSRV_000312</IRI>
-        <Literal>long QT syndrome</Literal>
+        <Literal>Long QT syndrome</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#CSRV_000313</IRI>
-        <Literal>depression</Literal>
+        <Literal>Depression</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#CSRV_000314</IRI>
-        <Literal>psychiatric co-morbidity</Literal>
+        <Literal>Psychiatric co-morbidity</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#CSRV_000315</IRI>
-        <Literal>antipsychotic medication use</Literal>
+        <Literal>Antipsychotic medication use</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#CSRV_000316</IRI>
-        <Literal>development dsiability</Literal>
+        <Literal>Development disability</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
