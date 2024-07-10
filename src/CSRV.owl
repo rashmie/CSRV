@@ -600,15 +600,6 @@
     
 
 
-    <!-- http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000003 -->
-
-    <owl:Class rdf:about="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000003">
-        <rdfs:subClassOf rdf:resource="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000001"/>
-        <rdfs:label xml:lang="en">Epilepsy</rdfs:label>
-    </owl:Class>
-    
-
-
     <!-- http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000004 -->
 
     <owl:Class rdf:about="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000004">
@@ -1403,30 +1394,7 @@
     <!-- http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000090 -->
 
     <owl:Class rdf:about="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000090">
-        <owl:equivalentClass>
-            <owl:Class>
-                <owl:intersectionOf rdf:parseType="Collection">
-                    <rdf:Description rdf:about="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000659"/>
-                    <owl:Restriction>
-                        <owl:onProperty rdf:resource="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000134"/>
-                        <owl:someValuesFrom rdf:resource="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000003"/>
-                    </owl:Restriction>
-                    <owl:Restriction>
-                        <owl:onProperty rdf:resource="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000163"/>
-                        <owl:someValuesFrom>
-                            <rdfs:Datatype>
-                                <owl:onDatatype rdf:resource="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000244"/>
-                                <owl:withRestrictions rdf:parseType="Collection">
-                                    <rdf:Description>
-                                        <xsd:minInclusive rdf:datatype="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000244">0</xsd:minInclusive>
-                                    </rdf:Description>
-                                </owl:withRestrictions>
-                            </rdfs:Datatype>
-                        </owl:someValuesFrom>
-                    </owl:Restriction>
-                </owl:intersectionOf>
-            </owl:Class>
-        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000659"/>
         <CSRV1:CSRV_000174>Long history of epilepsy</CSRV1:CSRV_000174>
         <CSRV1:CSRV_000389>15725771</CSRV1:CSRV_000389>
         <rdfs:label xml:lang="en">Long duration of epilepsy</rdfs:label>
@@ -1809,7 +1777,7 @@
                     </owl:Class>
                     <owl:Restriction>
                         <owl:onProperty rdf:resource="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000134"/>
-                        <owl:someValuesFrom rdf:resource="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000003"/>
+                        <owl:someValuesFrom rdf:resource="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000347"/>
                     </owl:Restriction>
                 </owl:intersectionOf>
             </owl:Class>
@@ -1872,7 +1840,7 @@
                     </owl:Class>
                     <owl:Restriction>
                         <owl:onProperty rdf:resource="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000134"/>
-                        <owl:someValuesFrom rdf:resource="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000003"/>
+                        <owl:someValuesFrom rdf:resource="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000347"/>
                     </owl:Restriction>
                 </owl:intersectionOf>
             </owl:Class>
@@ -2011,7 +1979,7 @@
                     </owl:Class>
                     <owl:Restriction>
                         <owl:onProperty rdf:resource="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000134"/>
-                        <owl:someValuesFrom rdf:resource="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000003"/>
+                        <owl:someValuesFrom rdf:resource="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000347"/>
                     </owl:Restriction>
                 </owl:intersectionOf>
             </owl:Class>
@@ -2857,6 +2825,11 @@
 
     <owl:Class rdf:about="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000332">
         <rdfs:subClassOf rdf:resource="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000659"/>
+        <CSRV1:CSRV_000174>Early onset of epilepsy</CSRV1:CSRV_000174>
+        <CSRV1:CSRV_000174>childhood onset epilepsy</CSRV1:CSRV_000174>
+        <CSRV1:CSRV_000174>earlier age of onset of epilepsy</CSRV1:CSRV_000174>
+        <CSRV1:CSRV_000174>young age at onset</CSRV1:CSRV_000174>
+        <CSRV1:CSRV_000389 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19099124</CSRV1:CSRV_000389>
         <CSRV1:CSRV_000389>28438841</CSRV1:CSRV_000389>
         <rdfs:label>Early onset of seizures</rdfs:label>
     </owl:Class>
@@ -3063,27 +3036,6 @@
     
 
 
-    <!-- http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000352 -->
-
-    <owl:Class rdf:about="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000352">
-        <rdfs:subClassOf rdf:resource="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000659"/>
-        <CSRV1:CSRV_000174>Onset of epilepsy at an early age</CSRV1:CSRV_000174>
-        <CSRV1:CSRV_000174>childhood onset epilepsy</CSRV1:CSRV_000174>
-        <CSRV1:CSRV_000174>children with epilepsy</CSRV1:CSRV_000174>
-        <CSRV1:CSRV_000174>earlier age of disease onset</CSRV1:CSRV_000174>
-        <CSRV1:CSRV_000174>earlier age of onset of epilepsy</CSRV1:CSRV_000174>
-        <CSRV1:CSRV_000174>earlier onset of epilepsy</CSRV1:CSRV_000174>
-        <CSRV1:CSRV_000174>early age at seizure onset</CSRV1:CSRV_000174>
-        <CSRV1:CSRV_000174>early age of onset in children</CSRV1:CSRV_000174>
-        <CSRV1:CSRV_000174>early age of seizure onset</CSRV1:CSRV_000174>
-        <CSRV1:CSRV_000174>young age at epilepsy onset</CSRV1:CSRV_000174>
-        <CSRV1:CSRV_000174>young age at onset</CSRV1:CSRV_000174>
-        <CSRV1:CSRV_000389>19099124</CSRV1:CSRV_000389>
-        <rdfs:label>Early onset of epilepsy</rdfs:label>
-    </owl:Class>
-    
-
-
     <!-- http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000353 -->
 
     <owl:Class rdf:about="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000353">
@@ -3154,7 +3106,7 @@
         <owl:equivalentClass>
             <owl:Class>
                 <owl:intersectionOf rdf:parseType="Collection">
-                    <rdf:Description rdf:about="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000352"/>
+                    <rdf:Description rdf:about="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000332"/>
                     <owl:Class>
                         <owl:unionOf rdf:parseType="Collection">
                             <owl:Restriction>
@@ -3205,7 +3157,7 @@
                 </owl:intersectionOf>
             </owl:Class>
         </owl:equivalentClass>
-        <rdfs:subClassOf rdf:resource="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000352"/>
+        <rdfs:subClassOf rdf:resource="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000332"/>
         <CSRV1:CSRV_000174>children with epilepsy (aged 0-17 years)</CSRV1:CSRV_000174>
         <CSRV1:CSRV_000389 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28438841</CSRV1:CSRV_000389>
         <rdfs:label>Early epilepsy onset &lt; 17 years</rdfs:label>
@@ -3596,7 +3548,7 @@
                                         <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
                                         <owl:withRestrictions rdf:parseType="Collection">
                                             <rdf:Description>
-                                                <xsd:minExclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#int">5475</xsd:minExclusive>
+                                                <xsd:minInclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#int">5475</xsd:minInclusive>
                                             </rdf:Description>
                                         </owl:withRestrictions>
                                     </rdfs:Datatype>
@@ -3609,7 +3561,7 @@
                                         <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
                                         <owl:withRestrictions rdf:parseType="Collection">
                                             <rdf:Description>
-                                                <xsd:minExclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#int">15</xsd:minExclusive>
+                                                <xsd:minInclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#int">15</xsd:minInclusive>
                                             </rdf:Description>
                                         </owl:withRestrictions>
                                     </rdfs:Datatype>
@@ -3622,7 +3574,7 @@
                                         <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
                                         <owl:withRestrictions rdf:parseType="Collection">
                                             <rdf:Description>
-                                                <xsd:minExclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#int">180</xsd:minExclusive>
+                                                <xsd:minInclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#int">180</xsd:minInclusive>
                                             </rdf:Description>
                                         </owl:withRestrictions>
                                     </rdfs:Datatype>
@@ -3632,7 +3584,7 @@
                     </owl:Class>
                     <owl:Restriction>
                         <owl:onProperty rdf:resource="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000134"/>
-                        <owl:someValuesFrom rdf:resource="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000003"/>
+                        <owl:someValuesFrom rdf:resource="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000347"/>
                     </owl:Restriction>
                 </owl:intersectionOf>
             </owl:Class>
@@ -3696,7 +3648,7 @@
                     </owl:Class>
                     <owl:Restriction>
                         <owl:onProperty rdf:resource="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000134"/>
-                        <owl:someValuesFrom rdf:resource="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000003"/>
+                        <owl:someValuesFrom rdf:resource="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000347"/>
                     </owl:Restriction>
                 </owl:intersectionOf>
             </owl:Class>
@@ -4959,7 +4911,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7920959/#:~:text=Seizure%20clusters
                     </owl:Class>
                     <owl:Restriction>
                         <owl:onProperty rdf:resource="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000134"/>
-                        <owl:someValuesFrom rdf:resource="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000003"/>
+                        <owl:someValuesFrom rdf:resource="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000347"/>
                     </owl:Restriction>
                 </owl:intersectionOf>
             </owl:Class>
