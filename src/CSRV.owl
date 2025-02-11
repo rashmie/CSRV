@@ -7510,6 +7510,159 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7920959/#:~:text=Seizure%20clusters
     
 
 
+    <!-- http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000688 -->
+
+    <owl:Class rdf:about="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000688">
+        <rdfs:subClassOf rdf:resource="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000004"/>
+        <rdfs:label>Aura</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000689 -->
+
+    <owl:Class rdf:about="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000689">
+        <rdfs:subClassOf rdf:resource="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000688"/>
+        <rdfs:label>Somatosensory Aura</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000690 -->
+
+    <owl:Class rdf:about="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000690">
+        <rdfs:subClassOf rdf:resource="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000688"/>
+        <rdfs:label>Visual Aura</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000691 -->
+
+    <owl:Class rdf:about="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000691">
+        <rdfs:subClassOf rdf:resource="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000688"/>
+        <rdfs:label>Auditory Aura</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000692 -->
+
+    <owl:Class rdf:about="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000692">
+        <rdfs:subClassOf rdf:resource="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000688"/>
+        <rdfs:label>Olfactory Aura</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000693 -->
+
+    <owl:Class rdf:about="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000693">
+        <rdfs:subClassOf rdf:resource="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000688"/>
+        <rdfs:label>Gustatory Aura</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000694 -->
+
+    <owl:Class rdf:about="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000694">
+        <rdfs:subClassOf rdf:resource="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000688"/>
+        <rdfs:label>Autonomic Aura</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000695 -->
+
+    <owl:Class rdf:about="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000695">
+        <rdfs:subClassOf rdf:resource="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000688"/>
+        <rdfs:label>Psychic Aura</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000696 -->
+
+    <owl:Class rdf:about="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000696">
+        <rdfs:subClassOf rdf:resource="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000694"/>
+        <rdfs:label>Tachycardic Aura</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000697 -->
+
+    <owl:Class rdf:about="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000697">
+        <rdfs:subClassOf rdf:resource="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000694"/>
+        <rdfs:label>Abdominal Aura</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000698 -->
+
+    <owl:Class rdf:about="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000698">
+        <rdfs:subClassOf rdf:resource="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000694"/>
+        <rdfs:label>Vasomotor Aura</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000699 -->
+
+    <owl:Class rdf:about="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000699">
+        <rdfs:subClassOf rdf:resource="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000694"/>
+        <rdfs:label>Pilomotor Aura</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000700 -->
+
+    <owl:Class rdf:about="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000700">
+        <rdfs:subClassOf rdf:resource="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000694"/>
+        <rdfs:label>Sialorrheic Aura</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000701 -->
+
+    <owl:Class rdf:about="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000701">
+        <rdfs:subClassOf rdf:resource="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000694"/>
+        <rdfs:label>Sexual Aura</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000702 -->
+
+    <owl:Class rdf:about="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000702">
+        <rdfs:subClassOf rdf:resource="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000694"/>
+        <rdfs:label>Urinary urge Aura</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000703 -->
+
+    <owl:Class rdf:about="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000703">
+        <rdfs:subClassOf rdf:resource="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000695"/>
+        <rdfs:label>Phobic Aura</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000704 -->
+
+    <owl:Class rdf:about="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000704">
+        <rdfs:subClassOf rdf:resource="http://www.csrv.com/ontologies/2024/4/CSRV#CSRV_000695"/>
+        <rdfs:label>Experiential Aura</rdfs:label>
+    </owl:Class>
+    
+
+
     <!-- 
     ///////////////////////////////////////////////////////////////////////////////////////
     //
